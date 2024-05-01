@@ -1,4 +1,4 @@
-import ProjectSpotlight from "@/components/project_spotlight";
+import ProjectSpotlight from "@/components/project_components/project_spotlight";
 import { Main } from "next/document";
 import Image from "next/image";
 
